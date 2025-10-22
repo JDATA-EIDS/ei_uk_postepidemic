@@ -1,0 +1,150 @@
+outbreakid,caselogid,casedate,casedateupdate,accuracy,census,numberclinical,numbervaccinated,breedgen,breed,sexgen,age,premisestype,del,vaccstatus,vaccdate,vaccclass,vaccinfo,dayssincevaccination,earliestsample,premisescategory
+332,637,09/12/2020,09/12/2020,uncertain,12,2,0,undefined,undefined,unknown,NA,private,FALSE,unvaccinated,NA,NA,NA,NA,09/12/2020,private
+350,668,08/11/2021,08/11/2021,accurate,30,1,NA,UK native pony breeds,pony welsh D,female,4,livery,FALSE,unvaccinated,NA,NA,NA,NA,09/11/2021,commercial
+349,664,04/11/2021,04/11/2021,accurate,4,1,1,Sports horses,irish sports horse,male non-intact,3,private,FALSE,unknown,NA,NA,NA,NA,05/11/2021,private
+362,691,01/12/2021,01/12/2021,accurate,4,1,4,Sports horses,irish sports horse,male non-intact,6,private,FALSE,unvaccinated,NA,NA,NA,NA,02/12/2021,private
+333,638,04/12/2020,04/12/2020,uncertain,35,2,10,undefined,undefined,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,04/12/2020,undefined
+331,636,01/12/2020,29/11/2020,mod accurate,6,1,NA,undefined,undefined,female,2,private,FALSE,unvaccinated,NA,NA,NA,NA,01/12/2020,private
+336,642,02/03/2021,23/02/2021,inaccurate,NA,1,NA,undefined,undefined,male intact,3,private,FALSE,unvaccinated,NA,NA,NA,NA,02/03/2021,private
+335,641,23/02/2021,16/02/2021,inaccurate,9,9,0,undefined,undefined,unknown,5,undefined,FALSE,unvaccinated,08/02/2021,V1,unknown - unknown,8,19/02/2021,undefined
+334,639,23/02/2021,23/02/2021,uncertain,40,NA,NA,undefined,undefined,male intact,0.66,undefined,FALSE,unvaccinated,NA,NA,NA,NA,16/02/2021,undefined
+337,643,03/03/2021,03/03/2021,accurate,30,1,29,UK native horse breeds,cob,female,10,undefined,FALSE,vaccinated,29/10/2020,V2,Equilis Prequenza - MSD,125,03/03/2021,undefined
+390,717,28/10/2022,28/10/2022,accurate,36,4,NA,UK native pony breeds,pony shetland,female,12,stud,FALSE,unvaccinated,NA,NA,NA,NA,24/10/2022,private
+363,693,04/12/2021,04/12/2021,accurate,4,1,3,UK native pony breeds,pony shetland miniature,female,3,private,FALSE,unvaccinated,NA,NA,NA,NA,07/12/2021,private
+370,700,19/03/2022,19/03/2022,accurate,20,1,15,undefined,undefined,unknown,NA,livery,FALSE,unvaccinated,NA,NA,NA,NA,20/03/2022,commercial
+386,714,13/09/2022,13/09/2022,accurate,15,1,14,Sports horses,warmblood,female,3,private,FALSE,unvaccinated,NA,NA,NA,NA,12/09/2022,private
+388,715,27/10/2022,27/10/2022,accurate,NA,1,NA,UK native pony breeds,pony shetland,female,NA,yard - sales,FALSE,unknown,NA,NA,NA,NA,27/10/2022,commercial
+389,716,27/10/2022,27/10/2022,accurate,7,7,0,UK native pony breeds,pony shetland,female,NA,yard - general,FALSE,unvaccinated,NA,NA,NA,NA,27/10/2022,other
+390,719,28/10/2022,28/10/2022,accurate,36,4,NA,UK native pony breeds,pony shetland,female,0.5,stud,FALSE,unvaccinated,NA,NA,NA,NA,27/10/2022,private
+408,757,14/12/2022,14/12/2022,accurate,6,2,NA,UK native horse breeds,cob,male non-intact,5,livery - private,FALSE,unknown,NA,NA,NA,NA,07/12/2022,private
+435,790,10/01/2023,10/01/2023,accurate,11,1,6,UK native horse breeds,cob,female,12,livery - private,FALSE,unknown,NA,NA,NA,NA,05/01/2023,private
+465,826,30/06/2023,30/06/2023,accurate,20,4,NA,undefined,undefined,female,4,riding school,FALSE,unvaccinated,NA,NA,NA,NA,30/06/2023,commercial
+330,628,26/06/2020,24/06/2020,mod accurate,5,1,3,undefined,undefined,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,26/06/2020,undefined
+409,758,16/12/2022,16/12/2022,accurate,6,2,NA,UK native pony breeds,pony shetland,male general,12,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,06/12/2022,private
+338,645,28/03/2021,26/03/2021,mod accurate,1,1,0,Non UK native horses,andalusian,male intact,3,undefined,FALSE,unvaccinated,NA,NA,NA,NA,28/03/2021,undefined
+364,694,13/12/2021,13/12/2021,accurate,3,1,2,UK native pony breeds,connemara,male non-intact,3,private,FALSE,unvaccinated,NA,NA,NA,NA,14/12/2021,private
+391,720,29/10/2022,29/10/2022,accurate,6,3,0,UK native pony breeds,pony shetland,female,10,private,FALSE,unvaccinated,NA,NA,NA,NA,29/10/2022,private
+401,741,05/11/2022,05/11/2022,accurate,16,1,NA,Sports horses,warmblood,female,2,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,04/11/2022,commercial
+351,671,15/11/2021,15/11/2021,accurate,12,1,10,UK native horse breeds,cob,female,11,livery,FALSE,vaccinated,19/11/2020,1st booster after primary,ProteqFlu - Boehringer,361,15/11/2021,commercial
+340,650,15/03/2021,13/03/2021,mod accurate,24,3,20,undefined,undefined,unknown,3,undefined,FALSE,vaccinated,28/10/2020,V2,ProteqFlu - Boehringer,136,15/03/2021,undefined
+340,647,15/03/2021,13/03/2021,mod accurate,24,3,20,undefined,undefined,unknown,3,undefined,FALSE,vaccinated,04/03/2021,V3,ProteqFlu - Boehringer,9,15/03/2021,undefined
+341,651,20/04/2021,18/04/2021,mod accurate,25,5,20,Sports horses,warmblood,female,13,livery,FALSE,vaccinated,17/03/2021,booster (6mo),ProteqFlu - Boehringer,32,20/04/2021,commercial
+343,652,14/05/2021,07/05/2021,inaccurate,45,1,44,undefined,undefined,unknown,3,undefined,FALSE,unvaccinated,NA,NA,NA,NA,14/05/2021,undefined
+344,653,14/05/2021,12/05/2021,mod accurate,3,1,NA,undefined,undefined,unknown,5,undefined,FALSE,unvaccinated,NA,NA,NA,NA,14/05/2021,undefined
+352,673,12/11/2021,12/11/2021,uncertain,NA,NA,NA,UK native horse breeds,cob,male non-intact,2,undefined,FALSE,unvaccinated,NA,NA,NA,NA,12/11/2021,undefined
+353,674,19/11/2021,17/11/2021,mod accurate,2,2,0,UK native pony breeds,pony welsh,female,2,private,FALSE,unvaccinated,NA,NA,NA,NA,19/11/2021,private
+365,695,17/12/2021,17/12/2021,accurate,16,0,15,crossbreeds,cross thoroughbred,male non-intact,NA,private,FALSE,unvaccinated,NA,NA,NA,NA,29/12/2021,private
+366,696,28/12/2021,28/12/2021,accurate,14,2,13,Sports horses,irish sports horse,female,5,private,FALSE,vaccinated,23/12/2021,1st booster after primary,ProteqFlu - Boehringer,5,29/12/2021,private
+367,698,21/12/2021,21/12/2021,accurate,7,4,NA,UK native horse breeds,cob,female,10,private,FALSE,unvaccinated,NA,NA,NA,NA,21/12/2021,private
+392,721,01/11/2022,01/11/2022,accurate,18,1,NA,UK native pony breeds,pony shetland,female,12,private,FALSE,unvaccinated,NA,NA,NA,NA,31/10/2022,private
+402,742,07/11/2022,07/11/2022,accurate,NA,3,NA,Sports horses,irish sports horse,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,04/11/2022,undefined
+474,843,03/08/2023,03/08/2023,accurate,35,2,33,UK native pony breeds,pony shetland,male non-intact,8,livery,FALSE,unknown,NA,NA,NA,NA,03/08/2023,commercial
+483,862,15/09/2023,15/09/2023,accurate,2,2,0,UK native pony breeds,pony shetland,female,20,private,FALSE,unvaccinated,NA,NA,NA,NA,15/09/2023,private
+483,863,15/09/2023,15/09/2023,accurate,2,2,0,donkey,donkey,unknown,NA,private,FALSE,unvaccinated,NA,NA,NA,NA,15/09/2023,private
+466,829,04/07/2023,02/07/2023,mod accurate,NA,NA,NA,undefined,undefined,unknown,NA,undefined,FALSE,unknown,NA,NA,NA,NA,04/07/2023,undefined
+340,654,21/04/2021,19/04/2021,mod accurate,24,3,20,undefined,undefined,unknown,NA,undefined,FALSE,unknown,NA,NA,NA,NA,09/04/2021,undefined
+354,680,22/11/2021,22/11/2021,accurate,11,3,8,UK native pony breeds,pony welsh,male intact,0.66,stud,FALSE,unvaccinated,NA,NA,NA,NA,22/11/2021,commercial
+354,681,22/11/2021,22/11/2021,accurate,11,3,8,UK native pony breeds,pony welsh,female,1.5,stud,FALSE,unvaccinated,NA,NA,NA,NA,22/11/2021,commercial
+368,699,01/07/2021,24/06/2021,inaccurate,NA,NA,NA,UK native pony breeds,pony welsh,unknown,4,undefined,FALSE,unknown,NA,NA,NA,NA,01/07/2021,undefined
+384,707,08/06/2022,08/06/2022,accurate,NA,NA,NA,Sports horses,warmblood,female,3,undefined,FALSE,unknown,NA,NA,NA,NA,08/06/2022,undefined
+393,723,02/11/2022,02/11/2022,accurate,50,9,NA,Sports horses,irish sports horse,female,7,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,01/11/2022,commercial
+393,724,02/11/2022,02/11/2022,accurate,50,9,NA,Sports horses,irish sports horse,male non-intact,3,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,01/11/2022,commercial
+402,743,07/11/2022,07/11/2022,accurate,NA,3,NA,Sports horses,irish sports horse,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,04/11/2022,undefined
+402,745,07/11/2022,07/11/2022,accurate,NA,3,NA,Sports horses,irish sports horse,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,04/11/2022,undefined
+403,746,10/11/2022,10/11/2022,accurate,5,1,4,Sports horses,irish sports horse,male non-intact,3,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,01/11/2022,private
+404,748,10/11/2022,10/11/2022,accurate,NA,1,NA,Non UK native horses,andalusian,male non-intact,4,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,05/11/2022,private
+411,760,14/12/2022,14/12/2022,accurate,30,1,NA,UK native horse breeds,cob,female,3,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,12/12/2022,private
+420,771,07/12/2022,07/12/2022,accurate,NA,1,NA,undefined,undefined,female,NA,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,05/12/2022,commercial
+485,867,25/09/2023,25/09/2023,accurate,NA,NA,NA,UK native horse breeds,irish,female,4,undefined,FALSE,unknown,NA,NA,NA,NA,25/09/2023,undefined
+477,847,28/08/2023,28/08/2023,accurate,NA,NA,NA,undefined,undefined,male non-intact,NA,riding school,FALSE,unvaccinated,NA,NA,NA,NA,29/08/2023,commercial
+488,871,02/10/2023,02/10/2023,accurate,NA,NA,NA,UK native pony breeds,connemara,male non-intact,5,riding school,FALSE,unvaccinated,25/08/2023,V1,unknown - unknown,38,05/09/2023,commercial
+489,872,20/10/2023,20/10/2023,accurate,12,NA,NA,Sports horses,warmblood,male non-intact,4,sale,FALSE,vaccinated,26/05/2023,V3,ProteqFlu - Boehringer,147,20/10/2023,commercial
+514,899,12/12/2023,12/12/2023,accurate,120,25,NA,UK native pony breeds,pony fell,female,14,undefined,FALSE,unknown,NA,NA,NA,NA,12/12/2023,undefined
+520,910,18/01/2024,18/01/2024,accurate,NA,NA,NA,Sports horses,warmblood,unknown,1,undefined,FALSE,unvaccinated,NA,NA,NA,NA,18/01/2024,undefined
+544,957,23/05/2024,23/05/2024,accurate,2,1,NA,UK native pony breeds,connemara,male non-intact,4,undefined,FALSE,unvaccinated,13/05/2024,V1,unknown - unknown,10,21/05/2024,undefined
+548,975,28/06/2024,28/06/2024,accurate,30,1,NA,undefined,undefined,male non-intact,NA,livery,FALSE,unvaccinated,NA,NA,NA,NA,28/06/2024,commercial
+549,978,24/06/2024,24/06/2024,accurate,NA,1,NA,UK native horse breeds,cob,male non-intact,15,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,24/06/2024,commercial
+552,984,25/07/2024,23/07/2024,mod accurate,35,1,35,UK native horse breeds,shire horse,female,11,livery,FALSE,vaccinated,NA,NA,NA,NA,02/08/2024,commercial
+553,986,25/07/2024,25/07/2024,accurate,20,1,15,Sports horses,warmblood,female,5,private,FALSE,unvaccinated,NA,NA,NA,NA,26/07/2024,private
+554,987,20/07/2024,20/07/2024,accurate,20,4,10,UK native pony breeds,pony shetland,unknown,NA,livery,FALSE,unvaccinated,NA,NA,NA,NA,23/07/2024,commercial
+555,988,14/07/2024,14/07/2024,accurate,38,10,16,UK native horse breeds,clydesdale,male non-intact,5,riding school,FALSE,unvaccinated,NA,NA,NA,NA,18/07/2024,commercial
+555,990,16/07/2024,16/07/2024,accurate,38,10,16,UK native horse breeds,cob,female,5,riding school,FALSE,unvaccinated,NA,NA,NA,NA,18/07/2024,commercial
+555,992,17/07/2024,17/07/2024,accurate,38,10,16,UK native horse breeds,cob,female,8,riding school,FALSE,unvaccinated,NA,NA,NA,NA,18/07/2024,commercial
+558,996,05/09/2024,05/09/2024,accurate,13,1,7,UK native pony breeds,connemara,female,1,livery,FALSE,unvaccinated,NA,NA,NA,NA,05/09/2024,commercial
+559,998,31/08/2024,31/08/2024,accurate,12,1,11,UK native horse breeds,irish,male non-intact,4,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,02/09/2024,commercial
+560,999,28/08/2024,28/08/2024,accurate,10,3,7,UK native pony breeds,connemara,female,4,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,28/06/2024,private
+324,616,01/04/2020,01/04/2020,accurate,12,2,12,Sports horses,sports horse,male non-intact,16,livery,FALSE,lapsed vaccinated,15/06/2018,unknown,ProteqFlu - Boehringer,656,08/04/2020,commercial
+324,618,01/04/2020,01/04/2020,accurate,12,2,12,Sports horses,warmblood,male non-intact,11,livery,FALSE,lapsed vaccinated,NA,NA,NA,NA,08/04/2020,commercial
+345,656,23/06/2021,23/06/2021,accurate,3,2,1,Non UK native horses,spanish,male intact,3,private,FALSE,unvaccinated,NA,NA,NA,NA,29/06/2021,private
+355,683,27/11/2021,25/11/2021,mod accurate,NA,3,NA,Sports horses,pony,unknown,7,riding school,FALSE,lapsed vaccinated,16/10/2020,booster (annual),ProteqFlu - Boehringer,405,27/11/2021,commercial
+369,1110,16/12/2021,16/12/2021,accurate,20,1,19,Sports horses,irish sports horse,male non-intact,4,livery,FALSE,unvaccinated,NA,NA,NA,NA,20/12/2021,commercial
+396,734,02/11/2022,02/11/2022,accurate,25,1,NA,Sports horses,irish sports horse,female,4,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,31/10/2022,commercial
+385,713,25/07/2022,25/07/2022,accurate,18,1,NA,crossbreeds,cross,female,14,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,25/07/2022,private
+394,730,03/11/2022,03/11/2022,accurate,NA,1,NA,UK native pony breeds,pony shetland miniature,unknown,NA,private,FALSE,unknown,NA,NA,NA,NA,01/11/2022,private
+545,959,27/05/2024,27/05/2024,accurate,25,1,25,UK native horse breeds,irish,female,7,livery,FALSE,unvaccinated,NA,NA,NA,NA,29/05/2024,commercial
+346,658,03/07/2021,03/07/2021,accurate,6,1,5,Sports horses,irish sports horse,male non-intact,3,livery,FALSE,unvaccinated,NA,NA,NA,NA,05/07/2021,commercial
+355,684,28/11/2021,28/11/2021,accurate,NA,3,NA,UK native pony breeds,pony shetland,male intact,0.5,riding school,FALSE,unvaccinated,NA,NA,NA,NA,30/11/2021,commercial
+397,735,02/11/2022,02/11/2022,accurate,8,1,NA,UK native pony breeds,pony shetland,female,0.5,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,31/10/2022,private
+405,749,10/11/2022,10/11/2022,accurate,20,2,NA,Sports horses,irish sports horse,male non-intact,5,sale,FALSE,unvaccinated,19/11/2022,V1,Equilis Prequenza - MSD,-9,09/11/2022,commercial
+412,761,16/12/2022,16/12/2022,accurate,30,7,15,UK native pony breeds,pony welsh D,female,9,livery,FALSE,unvaccinated,NA,NA,NA,NA,15/12/2022,commercial
+550,979,18/06/2024,18/06/2024,accurate,7,1,6,UK native pony breeds,pony shetland,male non-intact,3,private,FALSE,unvaccinated,NA,NA,NA,NA,20/06/2024,private
+546,980,18/06/2024,16/06/2024,mod accurate,8,6,0,crossbreeds,cross trotter,female,5,livery,FALSE,unvaccinated,NA,NA,NA,NA,18/06/2024,commercial
+423,775,19/12/2022,19/12/2022,accurate,14,4,7,UK native pony breeds,pony welsh A,male non-intact,3,stud,FALSE,unvaccinated,NA,NA,NA,NA,16/12/2022,private
+426,777,21/12/2022,21/12/2022,accurate,NA,10,NA,UK native horse breeds,cob,male intact,0.45,riding school,FALSE,unvaccinated,NA,NA,NA,NA,15/12/2022,commercial
+426,778,21/12/2022,21/12/2022,accurate,NA,10,NA,UK native horse breeds,cob,male non-intact,1,riding school,FALSE,unknown,NA,NA,NA,NA,15/12/2022,commercial
+546,981,18/06/2024,16/06/2024,mod accurate,8,6,0,undefined,undefined,male non-intact,5,livery,FALSE,unvaccinated,NA,NA,NA,NA,18/06/2024,commercial
+428,779,23/12/2022,23/12/2022,accurate,25,20,NA,UK native horse breeds,cob,male non-intact,10,livery,FALSE,unvaccinated,NA,NA,NA,NA,22/12/2022,commercial
+455,815,27/05/2023,27/05/2023,accurate,6,1,NA,UK native pony breeds,connemara,female,4,private,FALSE,unvaccinated,NA,NA,NA,NA,26/05/2023,private
+456,816,30/05/2023,30/05/2023,accurate,25,6,12,Sports horses,irish sports horse,male non-intact,8,private,FALSE,unvaccinated,NA,NA,NA,NA,26/05/2023,private
+547,982,19/06/2024,19/06/2024,accurate,8,1,NA,UK native horse breeds,cob,female,NA,undefined,FALSE,unknown,NA,NA,NA,NA,19/06/2024,undefined
+470,833,18/07/2023,18/07/2023,accurate,25,3,12,UK native horse breeds,cob,male non-intact,3,livery,FALSE,unvaccinated,NA,NA,NA,NA,18/07/2023,commercial
+480,851,04/09/2023,04/09/2023,accurate,60,1,50,Sports horses,irish sports horse,male non-intact,11,livery,FALSE,unvaccinated,NA,NA,NA,NA,04/09/2023,commercial
+410,759,11/12/2022,11/12/2022,accurate,9,9,0,UK native horse breeds,cob,female,4,private,FALSE,unvaccinated,NA,NA,NA,NA,11/12/2022,private
+469,832,18/07/2023,18/07/2023,accurate,5,1,5,UK native pony breeds,pony shetland,female,NA,private,FALSE,vaccinated,27/04/2023,booster (annual),ProteqFlu - Boehringer,82,19/07/2023,private
+561,1001,27/08/2024,27/08/2024,accurate,NA,NA,NA,undefined,undefined,female,4,undefined,FALSE,unvaccinated,25/08/2024,V1,unknown - unknown,2,27/08/2024,undefined
+577,1037,25/10/2024,25/10/2024,accurate,15,1,14,UK native pony breeds,pony welsh,female,0.33,stud,FALSE,unvaccinated,NA,NA,NA,NA,25/10/2024,private
+405,750,10/11/2022,10/11/2022,accurate,20,2,NA,crossbreeds,cross cob,male non-intact,2,sale,FALSE,unvaccinated,NA,NA,NA,NA,10/11/2022,commercial
+390,753,10/11/2022,10/11/2022,accurate,36,4,NA,Sports horses,thoroughbred,female,7,stud,FALSE,vaccinated,08/11/2021,booster (annual),Equilis Prequenza - MSD,367,04/11/2022,private
+347,659,17/06/2021,15/06/2021,mod accurate,40,1,35,Sports horses,thoroughbred,female,5,livery,FALSE,vaccinated,02/05/2021,booster (annual),ProteqFlu - Boehringer,44,17/06/2021,commercial
+348,660,26/07/2021,26/07/2021,accurate,100,NA,NA,Sports horses,warmblood,male non-intact,5,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,27/07/2021,commercial
+348,661,26/07/2021,26/07/2021,accurate,100,NA,NA,Sports horses,warmblood,male non-intact,5,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,27/07/2021,commercial
+360,686,26/11/2021,26/11/2021,accurate,30,4,15,Sports horses,warmblood,male non-intact,17,livery,FALSE,unvaccinated,NA,NA,NA,NA,02/12/2021,commercial
+361,689,02/12/2021,02/12/2021,accurate,60,2,59,Sports horses,irish sports horse,male non-intact,5,private,FALSE,unvaccinated,NA,NA,NA,NA,02/12/2021,private
+398,736,04/11/2022,04/11/2022,accurate,20,1,NA,Sports horses,irish sports horse,male non-intact,3,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,03/11/2022,commercial
+450,809,13/04/2023,13/04/2023,accurate,80,2,NA,Sports horses,irish sports horse,female,9,training,FALSE,unvaccinated,NA,NA,NA,NA,11/04/2023,commerical
+457,817,25/05/2023,25/05/2023,accurate,NA,1,NA,Non UK native horses,andalusian,male non-intact,NA,private,FALSE,lapsed vaccinated,20/02/2022,V2,ProteqFlu - Boehringer,459,23/05/2023,private
+360,870,NA,NA,accurate,30,4,15,undefined,undefined,unknown,NA,livery,FALSE,unknown,NA,NA,NA,NA,26/11/2021,commercial
+413,763,19/12/2022,19/12/2022,accurate,40,4,NA,Sports horses,irish sports horse,male non-intact,NA,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,19/12/2022,private
+471,839,28/07/2023,28/07/2023,accurate,13,3,9,UK native pony breeds,pony welsh,female,0.25,private,FALSE,unvaccinated,NA,NA,NA,NA,29/07/2023,private
+393,727,02/11/2022,02/11/2022,accurate,50,9,NA,Sports horses,irish sports horse,female,4,yard - competition,FALSE,unknown,NA,NA,NA,NA,01/11/2022,commercial
+496,879,07/11/2023,07/11/2023,accurate,NA,NA,NA,undefined,undefined,female,3,undefined,FALSE,unknown,NA,NA,NA,NA,10/11/2023,undefined
+498,880,15/11/2023,13/11/2023,mod accurate,NA,NA,NA,UK native horse breeds,irish,male non-intact,10,undefined,FALSE,unknown,NA,NA,NA,NA,15/11/2023,undefined
+499,882,11/11/2023,11/11/2023,accurate,4,2,3,UK native pony breeds,highland,male non-intact,10,private,FALSE,unvaccinated,NA,NA,NA,NA,13/11/2023,private
+499,883,10/11/2023,10/11/2023,accurate,4,2,3,UK native horse breeds,irish draught,male non-intact,3,private,FALSE,unvaccinated,NA,NA,NA,NA,13/11/2023,private
+326,620,12/05/2020,12/05/2020,accurate,45,15,30,Non UK native horses,friesian,female,NA,stud,FALSE,unvaccinated,NA,NA,NA,NA,26/05/2020,private
+326,622,14/05/2020,14/05/2020,accurate,45,15,30,Non UK native horses,friesian,female,5,stud,FALSE,vaccinated,02/07/2019,booster (annual),ProteqFlu - Boehringer,317,26/05/2020,private
+360,690,26/11/2021,26/11/2021,accurate,30,4,15,undefined,undefined,female,NA,livery,FALSE,unvaccinated,NA,NA,NA,NA,26/11/2021,commercial
+399,738,07/11/2022,07/11/2022,accurate,9,1,NA,Sports horses,thoroughbred,female,3,livery,FALSE,unvaccinated,NA,NA,NA,NA,01/11/2022,commercial
+407,755,13/12/2022,13/12/2022,accurate,6,2,0,UK native horse breeds,cob,female,3,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,12/12/2022,private
+432,785,28/12/2022,28/12/2022,accurate,30,2,NA,undefined,undefined,unknown,NA,livery - private,FALSE,unknown,NA,NA,NA,NA,27/12/2022,private
+432,786,28/12/2022,28/12/2022,accurate,30,2,NA,UK native horse breeds,clydesdale,unknown,NA,livery - private,FALSE,unknown,NA,NA,NA,NA,27/12/2022,private
+433,787,30/12/2022,30/12/2022,accurate,NA,6,NA,UK native horse breeds,cob,male intact,3,livery,FALSE,unvaccinated,NA,NA,NA,NA,28/12/2022,commercial
+441,800,13/02/2023,13/02/2023,accurate,30,1,15,undefined,undefined,female,1,livery,FALSE,unvaccinated,NA,NA,NA,NA,10/02/2023,commercial
+458,818,31/05/2023,31/05/2023,accurate,NA,NA,NA,UK native pony breeds,connemara,female,3,private,FALSE,unknown,NA,NA,NA,NA,29/05/2023,private
+461,822,16/06/2023,16/06/2023,accurate,25,1,NA,crossbreeds,cross welsh cob,female,13,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,15/06/2023,private
+464,825,29/06/2023,29/06/2023,accurate,12,1,NA,UK native horse breeds,cob,male non-intact,13,livery - private,FALSE,unknown,NA,NA,NA,NA,28/06/2023,private
+472,841,02/08/2023,31/07/2023,mod accurate,NA,NA,NA,undefined,undefined,unknown,NA,undefined,FALSE,unvaccinated,NA,NA,NA,NA,02/08/2023,undefined
+409,853,15/12/2022,15/12/2022,accurate,6,2,NA,UK native horse breeds,cob,male intact,0.5,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,15/12/2022,private
+409,855,15/12/2022,15/12/2022,accurate,6,2,NA,UK native horse breeds,cob,male non-intact,1,livery - private,FALSE,unvaccinated,NA,NA,NA,NA,15/12/2022,private
+400,739,27/10/2022,27/10/2022,accurate,NA,1,NA,UK native pony breeds,pony shetland miniature,female,12,undefined,FALSE,unknown,NA,NA,NA,NA,27/10/2022,undefined
+557,995,30/07/2024,30/07/2024,accurate,38,8,8,UK native horse breeds,irish draught,male intact,2,livery,FALSE,unvaccinated,NA,NA,NA,NA,03/08/2024,commercial
+571,1018,11/10/2024,11/10/2024,accurate,35,35,0,UK native horse breeds,cob,male non-intact,24,riding school,FALSE,unvaccinated,NA,NA,NA,NA,11/10/2024,commercial
+572,1019,16/10/2024,14/10/2024,mod accurate,4,3,1,undefined,undefined,unknown,24,private,FALSE,unvaccinated,NA,NA,NA,NA,16/10/2024,private
+573,1020,17/10/2024,17/10/2024,accurate,3,1,2,UK native horse breeds,cob,male intact,4,private,FALSE,unvaccinated,09/10/2024,V1,Equilis Prequenza - MSD,8,18/10/2024,private
+574,1021,17/10/2024,17/10/2024,accurate,15,4,5,UK native horse breeds,cob,female,8,livery,FALSE,unvaccinated,NA,NA,NA,NA,18/10/2024,commercial
+580,1049,30/10/2024,30/10/2024,accurate,12,2,11,UK native horse breeds,dartmoor,female,0.58,private,FALSE,unvaccinated,NA,NA,NA,NA,31/10/2024,private
+583,1052,01/11/2024,01/11/2024,accurate,NA,NA,NA,undefined,undefined,male non-intact,4,yard - competition,FALSE,unvaccinated,NA,NA,NA,NA,01/11/2024,commercial
+584,1053,22/10/2024,20/10/2024,mod accurate,180,30,0,UK native pony breeds,pony welsh,female,2,undefined,FALSE,unvaccinated,NA,NA,NA,NA,22/10/2024,undefined
+585,1055,07/11/2024,05/11/2024,mod accurate,4,1,3,UK native pony breeds,connemara,unknown,3,private,FALSE,unvaccinated,NA,NA,NA,NA,07/11/2024,private
+586,1056,02/11/2024,02/11/2024,accurate,8,3,3,UK native pony breeds,connemara,unknown,3,undefined,FALSE,unvaccinated,NA,NA,NA,NA,05/11/2024,undefined
+587,1057,01/11/2024,01/11/2024,accurate,14,1,12,UK native pony breeds,pony welsh,male non-intact,0.5,undefined,FALSE,unvaccinated,NA,NA,NA,NA,08/11/2024,undefined

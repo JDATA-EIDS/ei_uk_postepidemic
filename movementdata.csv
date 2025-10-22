@@ -1,0 +1,117 @@
+outbreakid,movementcategorydirection,movementcategoryanimalclass,movementcategorytime,timeperiod,associatedholdingtype,movementquantityactual,quantity
+363,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+332,onto premises,non-resident,permanent,< 1 week,undefined,2,new arrival is a case
+333,onto premises,non-resident,permanent,< 1 week,undefined,2,new arrival is a case
+335,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+362,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+338,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+340,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+341,onto premises,non-resident,permanent,<4 weeks,undefined,NA,minority
+341,onto premises,non-resident,permanent,<4 weeks,undefined,1,minority
+341,onto premises,non-resident,temporary,<2 weeks,undefined,10,minority
+343,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+347,onto premises,non-resident,temporary,<2 weeks,undefined,1,minority
+326,onto premises,non-resident,permanent,< 1 week,undefined,2,minority
+330,onto premises,non-resident,permanent,<2 weeks,undefined,NA,new arrival is a case
+330,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+331,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+345,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+337,onto premises,non-resident,permanent,<3 weeks,undefined,1,minority
+336,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+348,onto premises,non-resident,permanent,<2 weeks,undefined,1,minority
+349,onto premises,non-resident,permanent,< 1 week,sale,3,majority
+351,onto premises,non-resident,permanent,<2 weeks,undefined,NA,NA
+351,onto premises,non-resident,permanent,<2 weeks,undefined,2,minority
+353,onto premises,non-resident,permanent,< 1 week,sale,1,new arrival is a case
+354,off premises,resident,temporary,<3 weeks,undefined,NA,NA
+360,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+360,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+350,onto premises,non-resident,permanent,< 1 week,lairage,NA,minority
+352,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+346,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+344,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+355,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+361,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+407,off premises,resident,temporary,< 1 week,undefined,NA,undefined
+364,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+392,onto premises,non-resident,permanent,< 1 week,yard - sales,1,minority
+370,onto premises,non-resident,permanent,< 1 week,lairage,1,new arrival is a case
+365,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+366,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+369,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+385,onto premises,non-resident,temporary,< 1 week,undefined,NA,unknown
+407,onto premises,non-resident,permanent,<3 months,undefined,1,undefined
+392,off premises,resident,temporary,< 1 week,yard - sales,1,na
+420,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+398,onto premises,non-resident,permanent,<2 weeks,undefined,2,new arrival is a case
+396,off premises,resident,temporary,< 1 week,event,NA,undefined
+389,onto premises,non-resident,permanent,<2 weeks,sale,1,new arrival is a case
+401,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+400,onto premises,non-resident,permanent,<2 weeks,sales,NA,new arrival is a case
+405,off premises,resident,temporary,< 1 week,event,NA,undefined
+388,onto premises,non-resident,permanent,< 1 week,yard - sales,2,new arrival is a case
+412,onto premises,non-resident,permanent,<2 weeks,sales,1,undefined
+413,onto premises,non-resident,permanent,< 1 week,undefined,1,minority
+390,onto premises,non-resident,permanent,<2 weeks,yard - sales,4,new arrival is a case
+403,onto premises,non-resident,permanent,<2 weeks,sales,1,new arrival is a case
+435,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+411,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+409,onto premises,non-resident,permanent,<2 weeks,sales,1,new arrival is a case
+405,onto premises,non-resident,permanent,<2 weeks,sales,1,new arrival is a case
+423,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+391,onto premises,non-resident,permanent,<2 weeks,yard - sales,1,undefined
+397,onto premises,non-resident,permanent,<2 weeks,sales,2,new arrival is a case
+408,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+394,onto premises,non-resident,permanent,<2 weeks,yard - sales,2,new arrival is a case
+402,onto premises,non-resident,permanent,<2 weeks,sales,3,new arrival is a case
+386,onto premises,non-resident,permanent,<2 weeks,undefined,NA,new arrival is a case
+393,onto premises,non-resident,permanent,<2 weeks,sales,10,new arrival is a case
+399,onto premises,non-resident,permanent,<2 weeks,sales,1,new arrival is a case
+469,onto premises,non-resident,permanent,<2 weeks,undefined,1,minority
+470,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+471,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+472,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+474,onto premises,non-resident,permanent,< 1 week,undefined,2,new arrival is a case
+477,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+480,off premises,resident,temporary,< 1 week,undefined,NA,unknown
+485,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+520,onto premises,non-resident,permanent,< 1 week,undefined,2,new arrival is a case
+461,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+465,onto premises,non-resident,permanent,<2 weeks,undefined,1,NA
+457,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+455,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+426,onto premises,non-resident,permanent,<2 weeks,sale,NA,new arrival is a case
+404,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+396,onto premises,non-resident,permanent,<2 weeks,sales,1,new arrival is a case
+488,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+489,onto premises,non-resident,permanent,<2 weeks,undefined,NA,NA
+489,off premises,resident,temporary,<2 weeks,undefined,NA,NA
+499,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+514,onto premises,non-resident,permanent,<2 weeks,undefined,25,new arrival is a case
+553,onto premises,non-resident,permanent,<2 weeks,yard - sales,1,new arrival is a case
+552,off premises,resident,temporary,< 1 week,undefined,NA,NA
+545,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+554,off premises,resident,temporary,< 1 week,undefined,NA,NA
+544,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+546,onto premises,non-resident,permanent,<2 weeks,event,NA,minority
+548,onto premises,non-resident,permanent,na,horse fair,NA,NA
+549,off premises,resident,temporary,na,undefined,NA,NA
+550,onto premises,non-resident,permanent,< 1 week,undefined,NA,NA
+547,onto premises,non-resident,permanent,< 1 week,undefined,NA,new arrival is a case
+558,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+559,onto premises,non-resident,permanent,< 1 week,yard - sales,1,new arrival is a case
+560,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+561,onto premises,non-resident,permanent,< 1 week,yard - sales,1,new arrival is a case
+572,onto premises,non-resident,permanent,< 1 week,sale,1,new arrival is a case
+573,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+574,off premises,resident,temporary,<2 weeks,undefined,NA,NA
+577,onto premises,resident,permanent,na,undefined,NA,NA
+580,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+583,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+584,onto premises,non-resident,permanent,< 1 week,undefined,80,majority
+585,onto premises,non-resident,permanent,< 1 week,undefined,1,new arrival is a case
+587,onto premises,non-resident,permanent,< 1 week,undefined,NA,NA
+587,off premises,resident,temporary,< 1 week,undefined,NA,NA
+586,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+496,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case
+458,onto premises,non-resident,permanent,<2 weeks,undefined,1,new arrival is a case

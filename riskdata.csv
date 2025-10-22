@@ -1,0 +1,354 @@
+outbreakid,riskclass,risksubclass,quantity
+469,biosecurity,quarantine new arrival,none
+363,management,share equipment,all
+350,management,share equipment,none
+428,grazing,group,half
+407,biosecurity,isolation facility,none
+428,management,share equipment,all
+390,grazing,group,all
+426,biosecurity,quarantine new arrival,none
+441,biosecurity,quarantine new arrival,none
+557,biosecurity,isolation facility,none
+409,movement,new arrival is case,new arrival is a case
+477,housing,stables,all
+464,biosecurity,isolation facility,none
+369,management,share tack,none
+326,biosecurity,quarantine new arrival,none
+469,biosecurity,isolation facility,none
+435,management,share equipment,all
+483,biosecurity,isolation facility,none
+367,biosecurity,isolation facility,none
+361,biosecurity,isolation facility,all
+407,housing,stables,all
+326,management,share equipment,all
+435,biosecurity,isolation facility,none
+433,biosecurity,isolation facility,none
+471,biosecurity,quarantine new arrival,all
+346,biosecurity,quarantine new arrival,none
+489,housing,stables,all
+423,biosecurity,isolation facility,all
+399,movement,new arrival is case,new arrival is a case
+435,movement,new arrival is case,new arrival is a case
+386,management,share equipment,all
+559,biosecurity,quarantine new arrival,all
+546,biosecurity,isolation facility,none
+499,management,share tack,none
+480,grazing,group,all
+558,management,share tack,none
+351,biosecurity,quarantine new arrival,none
+432,housing,barn,all
+398,movement,new arrival is case,new arrival is a case
+483,management,share tack,all
+394,movement,new arrival is case,new arrival is a case
+367,management,share tack,none
+401,movement,new arrival is case,new arrival is a case
+477,management,share tack,all
+355,biosecurity,quarantine new arrival,none
+469,management,share tack,none
+458,management,share tack,none
+477,biosecurity,isolation facility,none
+411,housing,barn,all
+391,biosecurity,isolation facility,none
+455,biosecurity,isolation facility,all
+489,management,share tack,all
+388,Event - Worcester sales,Direct link,new arrival is a case
+548,biosecurity,isolation facility,none
+420,movement,new arrival is case,new arrival is a case
+549,biosecurity,isolation facility,unknown
+433,biosecurity,quarantine new arrival,none
+345,management,share equipment,all
+457,biosecurity,isolation facility,all
+400,movement,new arrival is case,new arrival is a case
+410,housing,barn,all
+477,grazing,separate,all
+397,management,share equipment,majority
+464,management,share tack,all
+545,housing,stables,all
+499,biosecurity,isolation facility,none
+351,housing,barn,all
+405,movement,new arrival is case,new arrival is a case
+345,biosecurity,isolation facility,none
+553,grazing,separate,all
+346,management,share tack,none
+408,grazing,group,all
+367,grazing,group,all
+499,grazing,group,all
+426,management,share tack,none
+499,management,share equipment,none
+367,biosecurity,quarantine new arrival,none
+456,housing,barn,all
+366,biosecurity,quarantine new arrival,none
+390,movement,new arrival is case,new arrival is a case
+553,management,share tack,none
+461,management,share equipment,all
+407,management,share equipment,all
+326,grazing,group,all
+426,housing,stables,all
+354,biosecurity,isolation facility,none
+480,housing,barn,all
+410,grazing,group,all
+409,housing,stables,all
+389,housing,barn,all
+412,management,share equipment,none
+366,housing,barn,all
+353,management,share tack,none
+412,biosecurity,quarantine new arrival,none
+386,grazing,separate,all
+433,housing,barn,all
+547,biosecurity,isolation facility,all
+402,movement,new arrival is case,new arrival is a case
+461,grazing,separate,all
+401,housing,barn,majority
+349,management,share tack,all
+365,biosecurity,isolation facility,none
+489,biosecurity,quarantine new arrival,none
+474,biosecurity,quarantine new arrival,all
+350,housing,stables,all
+471,biosecurity,isolation facility,all
+353,biosecurity,isolation facility,all
+423,management,share equipment,all
+360,biosecurity,quarantine new arrival,none
+426,biosecurity,isolation facility,none
+480,grazing,separate,all
+394,Event - Worcester sales,Direct link,new arrival is a case
+393,management,share equipment,all
+477,management,share equipment,all
+464,biosecurity,quarantine new arrival,none
+405,management,share equipment,all
+354,biosecurity,quarantine new arrival,none
+386,housing,barn,all
+362,housing,stables,all
+412,grazing,group,all
+428,biosecurity,quarantine new arrival,all
+369,housing,barn,all
+413,housing,stables,all
+345,housing,stables,all
+544,grazing,group,all
+441,management,share equipment,all
+346,housing,barn,all
+465,grazing,group,all
+408,movement,new arrival is case,new arrival is a case
+428,housing,barn,all
+458,biosecurity,isolation facility,all
+350,biosecurity,quarantine new arrival,none
+470,biosecurity,quarantine new arrival,none
+408,housing,stables,all
+461,management,share tack,none
+470,management,share equipment,none
+470,biosecurity,isolation facility,none
+455,grazing,group,half
+365,biosecurity,quarantine new arrival,none
+465,housing,stables,all
+489,management,share equipment,all
+346,management,share equipment,none
+392,grazing,group,all
+548,biosecurity,quarantine new arrival,none
+389,movement,new arrival is case,new arrival is a case
+549,grazing,separate,majority
+423,grazing,group,all
+557,biosecurity,quarantine new arrival,none
+545,management,share tack,none
+441,grazing,group,all
+420,biosecurity,quarantine new arrival,none
+546,biosecurity,quarantine new arrival,none
+480,housing,stables,all
+455,management,share equipment,all
+499,housing,stables,all
+396,movement,new arrival is case,new arrival is a case
+360,biosecurity,isolation facility,none
+413,biosecurity,quarantine new arrival,none
+403,housing,stables,all
+423,movement,new arrival is case,new arrival is a case
+488,biosecurity,isolation facility,all
+403,grazing,separate,all
+483,biosecurity,quarantine new arrival,none
+413,management,share equipment,all
+351,management,share tack,all
+545,housing,barn,all
+346,biosecurity,isolation facility,none
+470,management,share tack,none
+420,biosecurity,isolation facility,none
+423,biosecurity,quarantine new arrival,none
+393,movement,new arrival is case,new arrival is a case
+392,Event - Worcester Sales,Indirect link,undefined
+350,management,share tack,none
+469,management,share equipment,all
+455,grazing,separate,half
+345,grazing,group,all
+558,biosecurity,quarantine new arrival,none
+355,biosecurity,isolation facility,none
+326,housing,stables,all
+441,biosecurity,isolation facility,none
+361,biosecurity,quarantine new arrival,all
+397,housing,barn,majority
+346,grazing,separate,all
+355,housing,barn,all
+488,management,share tack,none
+363,biosecurity,quarantine new arrival,none
+450,biosecurity,quarantine new arrival,all
+346,housing,stables,all
+363,management,share tack,all
+455,management,share tack,all
+549,housing,stables,majority
+397,movement,new arrival is case,new arrival is a case
+391,housing,stables,all
+398,biosecurity,quarantine new arrival,all
+413,housing,barn,all
+456,management,share equipment,all
+350,biosecurity,isolation facility,none
+455,biosecurity,quarantine new arrival,all
+412,housing,barn,all
+554,housing,stables,all
+409,biosecurity,quarantine new arrival,none
+464,housing,barn,all
+558,management,share equipment,all
+483,management,share equipment,all
+390,management,share equipment,all
+480,management,share tack,none
+369,biosecurity,quarantine new arrival,none
+549,have horses been offsite,movement,undefined
+488,management,share equipment,all
+470,grazing,separate,half
+548,grazing,group,unknown
+391,Event - Worcester Sales,Indirect link,new arrival is a case
+465,biosecurity,isolation facility,none
+351,management,share equipment,all
+432,biosecurity,isolation facility,all
+364,biosecurity,isolation facility,none
+480,biosecurity,isolation facility,all
+457,movement,new arrival is case,new arrival is a case
+546,event - appleby,direct link,all
+474,housing,stables,all
+385,biosecurity,quarantine new arrival,none
+457,management,share equipment,none
+548,event - appleby,direct link,undefined
+404,movement,new arrival is case,new arrival is a case
+489,biosecurity,isolation facility,none
+364,management,share equipment,none
+362,biosecurity,quarantine new arrival,all
+404,housing,stables,majority
+488,have horses been offsite,movement,none
+411,housing,stables,all
+407,biosecurity,quarantine new arrival,none
+367,housing,stables,all
+577,housing,stables,all
+464,grazing,group,all
+435,biosecurity,quarantine new arrival,none
+393,management,share tack,all
+545,management,share equipment,none
+457,housing,barn,all
+408,biosecurity,quarantine new arrival,none
+353,management,share equipment,all
+354,management,share equipment,none
+398,biosecurity,isolation facility,all
+363,biosecurity,isolation facility,none
+361,management,share equipment,none
+345,management,share tack,none
+488,biosecurity,quarantine new arrival,all
+471,housing,barn,all
+390,Event - Worcester sales,Direct link,new arrival is a case
+388,housing,stables,all
+412,housing,stables,all
+411,movement,new arrival is case,new arrival is a case
+353,biosecurity,quarantine new arrival,none
+408,biosecurity,isolation facility,none
+349,biosecurity,quarantine new arrival,none
+433,management,share tack,none
+349,management,share equipment,all
+390,biosecurity,isolation facility,none
+385,biosecurity,isolation facility,none
+461,movement,new arrival is case,new arrival is a case
+461,biosecurity,isolation facility,none
+423,management,share tack,none
+361,housing,stables,all
+474,grazing,group,all
+435,housing,stables,all
+365,housing,barn,all
+361,management,share tack,none
+397,grazing,group,majority
+405,grazing,group,all
+560,management,share equipment,all
+545,biosecurity,quarantine new arrival,none
+428,grazing,separate,half
+441,housing,stables,all
+470,grazing,group,half
+455,movement,new arrival is case,new arrival is a case
+554,grazing,separate,all
+326,management,share tack,all
+553,biosecurity,isolation facility,all
+432,management,share equipment,none
+349,biosecurity,isolation facility,all
+409,biosecurity,isolation facility,none
+558,biosecurity,isolation facility,all
+469,grazing,group,all
+461,biosecurity,quarantine new arrival,none
+554,biosecurity,isolation facility,none
+474,biosecurity,isolation facility,all
+560,biosecurity,isolation facility,none
+345,biosecurity,quarantine new arrival,none
+499,biosecurity,quarantine new arrival,none
+398,housing,stables,majority
+396,housing,stables,all
+405,management,share tack,all
+450,biosecurity,isolation facility,all
+403,management,share equipment,all
+450,management,share equipment,all
+458,biosecurity,quarantine new arrival,all
+326,biosecurity,isolation facility,minority
+547,biosecurity,quarantine new arrival,none
+399,housing,stables,majority
+362,management,share tack,none
+432,management,share tack,none
+432,biosecurity,quarantine new arrival,none
+560,biosecurity,quarantine new arrival,none
+480,management,share equipment,none
+364,management,share tack,none
+351,biosecurity,isolation facility,none
+354,housing,stables,all
+385,housing,stables,all
+364,housing,barn,all
+435,grazing,group,all
+456,biosecurity,isolation facility,none
+450,housing,stables,all
+458,housing,stables,all
+457,biosecurity,quarantine new arrival,all
+428,biosecurity,isolation facility,all
+413,management,share tack,all
+544,housing,stables,all
+456,biosecurity,quarantine new arrival,none
+470,housing,stables,all
+412,biosecurity,isolation facility,none
+369,biosecurity,isolation facility,none
+388,movement,new arrival is case,new arrival is a case
+554,management,share equipment,none
+455,housing,barn,all
+362,biosecurity,isolation facility,all
+488,housing,stables,all
+553,management,share equipment,none
+403,movement,new arrival is case,all
+554,management,share tack,none
+423,housing,stables,all
+393,housing,barn,all
+353,housing,stables,all
+477,biosecurity,quarantine new arrival,none
+412,management,share tack,none
+349,housing,stables,all
+413,biosecurity,isolation facility,none
+464,management,share equipment,all
+435,management,share tack,minority
+428,management,share tack,none
+465,biosecurity,quarantine new arrival,all
+545,biosecurity,isolation facility,none
+392,management,share equipment,all
+456,management,share tack,all
+559,biosecurity,isolation facility,all
+480,biosecurity,quarantine new arrival,all
+413,grazing,group,all
+367,management,share equipment,none
+457,management,share tack,none
+405,housing,barn,all
+554,biosecurity,quarantine new arrival,none
+354,management,share tack,none
+366,biosecurity,isolation facility,none
+553,biosecurity,quarantine new arrival,all
+420,housing,barn,all
