@@ -30,7 +30,7 @@ The principal linking field across all datasets is **`outbreakid`** and **`casel
 
 ## Licence
 
-Data are provided under a **CC BY 4.0 Licence** — reuse permitted with appropriate attribution.
+Data are provided under a **GNU GENERAL PUBLIC LICENSE** — reuse permitted with appropriate attribution.
 
 ## Data descriptions and types
 
